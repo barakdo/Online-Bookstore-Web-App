@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\97250\\Desktop\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\\u05E6\u05D3 \u05E9\u05E8\u05EA\\\u05DE\u05D8\u05DC\u05D4 \u05DE\u05E1\u05DB\u05DE\u05EA\\Server\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4849DAFE-99B8-44EA-A954-17A71B0DC131}|Server\\Server.csproj|c:\\users\\97250\\desktop\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\\u05E6\u05D3 \u05E9\u05E8\u05EA\\\u05DE\u05D8\u05DC\u05D4 \u05DE\u05E1\u05DB\u05DE\u05EA\\server\\server\\dal\\dbservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4849DAFE-99B8-44EA-A954-17A71B0DC131}|Server\\Server.csproj|solutionrelative:server\\dal\\dbservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4849DAFE-99B8-44EA-A954-17A71B0DC131}|Server\\Server.csproj|c:\\users\\97250\\desktop\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\\u05E6\u05D3 \u05E9\u05E8\u05EA\\\u05DE\u05D8\u05DC\u05D4 \u05DE\u05E1\u05DB\u05DE\u05EA\\server\\server\\bl\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4849DAFE-99B8-44EA-A954-17A71B0DC131}|Server\\Server.csproj|solutionrelative:server\\bl\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4849DAFE-99B8-44EA-A954-17A71B0DC131}|Server\\Server.csproj|c:\\users\\97250\\desktop\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\\u05E6\u05D3 \u05E9\u05E8\u05EA\\\u05DE\u05D8\u05DC\u05D4 \u05DE\u05E1\u05DB\u05DE\u05EA\\server\\server\\controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4849DAFE-99B8-44EA-A954-17A71B0DC131}|Server\\Server.csproj|solutionrelative:server\\controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4849DAFE-99B8-44EA-A954-17A71B0DC131}|Server\\Server.csproj|c:\\users\\97250\\desktop\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\\u05E6\u05D3 \u05E9\u05E8\u05EA\\\u05DE\u05D8\u05DC\u05D4 \u05DE\u05E1\u05DB\u05DE\u05EA\\server\\server\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4849DAFE-99B8-44EA-A954-17A71B0DC131}|Server\\Server.csproj|solutionrelative:server\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4849DAFE-99B8-44EA-A954-17A71B0DC131}|Server\\Server.csproj|c:\\users\\97250\\desktop\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\\u05E6\u05D3 \u05E9\u05E8\u05EA\\\u05DE\u05D8\u05DC\u05D4 \u05DE\u05E1\u05DB\u05DE\u05EA\\server\\server\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4849DAFE-99B8-44EA-A954-17A71B0DC131}|Server\\Server.csproj|solutionrelative:server\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4849DAFE-99B8-44EA-A954-17A71B0DC131}|Server\\Server.csproj|c:\\users\\97250\\desktop\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\\u05E6\u05D3 \u05E9\u05E8\u05EA\\\u05DE\u05D8\u05DC\u05D4 \u05DE\u05E1\u05DB\u05DE\u05EA\\server\\server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4849DAFE-99B8-44EA-A954-17A71B0DC131}|Server\\Server.csproj|solutionrelative:server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4849DAFE-99B8-44EA-A954-17A71B0DC131}|Server\\Server.csproj|c:\\users\\97250\\desktop\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\\u05E6\u05D3 \u05E9\u05E8\u05EA\\\u05DE\u05D8\u05DC\u05D4 \u05DE\u05E1\u05DB\u05DE\u05EA\\server\\server\\bl\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4849DAFE-99B8-44EA-A954-17A71B0DC131}|Server\\Server.csproj|solutionrelative:server\\bl\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4849DAFE-99B8-44EA-A954-17A71B0DC131}|Server\\Server.csproj|c:\\users\\97250\\desktop\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\\u05E6\u05D3 \u05E9\u05E8\u05EA\\\u05DE\u05D8\u05DC\u05D4 \u05DE\u05E1\u05DB\u05DE\u05EA\\server\\server\\bl\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4849DAFE-99B8-44EA-A954-17A71B0DC131}|Server\\Server.csproj|solutionrelative:server\\bl\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4849DAFE-99B8-44EA-A954-17A71B0DC131}|Server\\Server.csproj|c:\\users\\97250\\desktop\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\\u05E6\u05D3 \u05E9\u05E8\u05EA\\\u05DE\u05D8\u05DC\u05D4 \u05DE\u05E1\u05DB\u05DE\u05EA\\server\\server\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4849DAFE-99B8-44EA-A954-17A71B0DC131}|Server\\Server.csproj|solutionrelative:server\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4849DAFE-99B8-44EA-A954-17A71B0DC131}|Server\\Server.csproj|c:\\users\\97250\\desktop\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\\u05E6\u05D3 \u05E9\u05E8\u05EA\\\u05DE\u05D8\u05DC\u05D4 \u05DE\u05E1\u05DB\u05DE\u05EA\\server\\server\\bl\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4849DAFE-99B8-44EA-A954-17A71B0DC131}|Server\\Server.csproj|solutionrelative:server\\bl\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\97250\\Desktop\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\\u05E6\u05D3 \u05E9\u05E8\u05EA\\\u05DE\u05D8\u05DC\u05D4 \u05DE\u05E1\u05DB\u05DE\u05EA\\Server\\Server\\Program.cs",
+              "RelativeDocumentMoniker": "Server\\Program.cs",
+              "ToolTip": "C:\\Users\\97250\\Desktop\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\\u05E6\u05D3 \u05E9\u05E8\u05EA\\\u05DE\u05D8\u05DC\u05D4 \u05DE\u05E1\u05DB\u05DE\u05EA\\Server\\Server\\Program.cs",
+              "RelativeToolTip": "Server\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T15:20:32.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\97250\\Desktop\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\\u05E6\u05D3 \u05E9\u05E8\u05EA\\\u05DE\u05D8\u05DC\u05D4 \u05DE\u05E1\u05DB\u05DE\u05EA\\Server\\Server\\BL\\Category.cs",
+              "RelativeDocumentMoniker": "Server\\BL\\Category.cs",
+              "ToolTip": "C:\\Users\\97250\\Desktop\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\\u05E6\u05D3 \u05E9\u05E8\u05EA\\\u05DE\u05D8\u05DC\u05D4 \u05DE\u05E1\u05DB\u05DE\u05EA\\Server\\Server\\BL\\Category.cs",
+              "RelativeToolTip": "Server\\BL\\Category.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAIAwwBkAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T13:34:43.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\97250\\Desktop\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\\u05E6\u05D3 \u05E9\u05E8\u05EA\\\u05DE\u05D8\u05DC\u05D4 \u05DE\u05E1\u05DB\u05DE\u05EA\\Server\\Server\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "Server\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\97250\\Desktop\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\\u05E6\u05D3 \u05E9\u05E8\u05EA\\\u05DE\u05D8\u05DC\u05D4 \u05DE\u05E1\u05DB\u05DE\u05EA\\Server\\Server\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "Server\\Controllers\\CategoriesController.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAqwBUAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T13:33:12.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\97250\\Desktop\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\\u05E6\u05D3 \u05E9\u05E8\u05EA\\\u05DE\u05D8\u05DC\u05D4 \u05DE\u05E1\u05DB\u05DE\u05EA\\Server\\Server\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Server\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\97250\\Desktop\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\\u05E6\u05D3 \u05E9\u05E8\u05EA\\\u05DE\u05D8\u05DC\u05D4 \u05DE\u05E1\u05DB\u05DE\u05EA\\Server\\Server\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Server\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAMwEEAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T13:21:15.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\97250\\Desktop\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\\u05E6\u05D3 \u05E9\u05E8\u05EA\\\u05DE\u05D8\u05DC\u05D4 \u05DE\u05E1\u05DB\u05DE\u05EA\\Server\\Server\\BL\\User.cs",
+              "RelativeDocumentMoniker": "Server\\BL\\User.cs",
+              "ToolTip": "C:\\Users\\97250\\Desktop\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\\u05E6\u05D3 \u05E9\u05E8\u05EA\\\u05DE\u05D8\u05DC\u05D4 \u05DE\u05E1\u05DB\u05DE\u05EA\\Server\\Server\\BL\\User.cs",
+              "RelativeToolTip": "Server\\BL\\User.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAwwE4AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T13:11:25.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthorsController.cs",
+              "DocumentMoniker": "C:\\Users\\97250\\Desktop\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\\u05E6\u05D3 \u05E9\u05E8\u05EA\\\u05DE\u05D8\u05DC\u05D4 \u05DE\u05E1\u05DB\u05DE\u05EA\\Server\\Server\\Controllers\\AuthorsController.cs",
+              "RelativeDocumentMoniker": "Server\\Controllers\\AuthorsController.cs",
+              "ToolTip": "C:\\Users\\97250\\Desktop\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\\u05E6\u05D3 \u05E9\u05E8\u05EA\\\u05DE\u05D8\u05DC\u05D4 \u05DE\u05E1\u05DB\u05DE\u05EA\\Server\\Server\\Controllers\\AuthorsController.cs",
+              "RelativeToolTip": "Server\\Controllers\\AuthorsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T09:24:50.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Author.cs",
+              "DocumentMoniker": "C:\\Users\\97250\\Desktop\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\\u05E6\u05D3 \u05E9\u05E8\u05EA\\\u05DE\u05D8\u05DC\u05D4 \u05DE\u05E1\u05DB\u05DE\u05EA\\Server\\Server\\BL\\Author.cs",
+              "RelativeDocumentMoniker": "Server\\BL\\Author.cs",
+              "ToolTip": "C:\\Users\\97250\\Desktop\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\\u05E6\u05D3 \u05E9\u05E8\u05EA\\\u05DE\u05D8\u05DC\u05D4 \u05DE\u05E1\u05DB\u05DE\u05EA\\Server\\Server\\BL\\Author.cs",
+              "RelativeToolTip": "Server\\BL\\Author.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAIwB8AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T09:23:22.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\97250\\Desktop\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\\u05E6\u05D3 \u05E9\u05E8\u05EA\\\u05DE\u05D8\u05DC\u05D4 \u05DE\u05E1\u05DB\u05DE\u05EA\\Server\\Server\\BL\\Book.cs",
+              "RelativeDocumentMoniker": "Server\\BL\\Book.cs",
+              "ToolTip": "C:\\Users\\97250\\Desktop\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\\u05E6\u05D3 \u05E9\u05E8\u05EA\\\u05DE\u05D8\u05DC\u05D4 \u05DE\u05E1\u05DB\u05DE\u05EA\\Server\\Server\\BL\\Book.cs",
+              "RelativeToolTip": "Server\\BL\\Book.cs",
+              "ViewState": "AQIAAHsAAAAAAAAAAAAcwI0AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T10:23:53.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\97250\\Desktop\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\\u05E6\u05D3 \u05E9\u05E8\u05EA\\\u05DE\u05D8\u05DC\u05D4 \u05DE\u05E1\u05DB\u05DE\u05EA\\Server\\Server\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "Server\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\97250\\Desktop\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\\u05E6\u05D3 \u05E9\u05E8\u05EA\\\u05DE\u05D8\u05DC\u05D4 \u05DE\u05E1\u05DB\u05DE\u05EA\\Server\\Server\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "Server\\Controllers\\BooksController.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAcwCsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T15:20:36.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DBservices.cs",
+              "DocumentMoniker": "C:\\Users\\97250\\Desktop\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\\u05E6\u05D3 \u05E9\u05E8\u05EA\\\u05DE\u05D8\u05DC\u05D4 \u05DE\u05E1\u05DB\u05DE\u05EA\\Server\\Server\\DAL\\DBservices.cs",
+              "RelativeDocumentMoniker": "Server\\DAL\\DBservices.cs",
+              "ToolTip": "C:\\Users\\97250\\Desktop\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\\u05E6\u05D3 \u05E9\u05E8\u05EA\\\u05DE\u05D8\u05DC\u05D4 \u05DE\u05E1\u05DB\u05DE\u05EA\\Server\\Server\\DAL\\DBservices.cs",
+              "RelativeToolTip": "Server\\DAL\\DBservices.cs",
+              "ViewState": "AQIAALcBAAAAAAAAAAA3wMEBAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T07:59:21.717Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
