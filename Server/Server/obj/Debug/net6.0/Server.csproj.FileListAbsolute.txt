@@ -37,3 +37,4 @@ C:\Users\97250\Desktop\רופין\שנה ב\סמסטר ב\צד שרת\מטלה �
 C:\Users\97250\Desktop\רופין\שנה ב\סמסטר ב\צד שרת\מטלה מסכמת\Server\Server\obj\Debug\net6.0\Server.pdb
 C:\Users\97250\Desktop\רופין\שנה ב\סמסטר ב\צד שרת\מטלה מסכמת\Server\Server\obj\Debug\net6.0\Server.genruntimeconfig.cache
 C:\Users\97250\Desktop\רופין\שנה ב\סמסטר ב\צד שרת\מטלה מסכמת\Server\Server\obj\Debug\net6.0\ref\Server.dll
+C:\Users\97250\Desktop\רופין\שנה ב\סמסטר ב\צד שרת\מטלה מסכמת\Server\Server\obj\Debug\net6.0\Server.sourcelink.json

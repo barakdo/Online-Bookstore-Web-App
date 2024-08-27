@@ -62,7 +62,8 @@
               "RelativeToolTip": "Server\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-21T15:20:32.673Z"
+              "WhenOpened": "2024-08-21T15:20:32.673Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -74,7 +75,8 @@
               "RelativeToolTip": "Server\\BL\\Category.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAIAwwBkAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-12T13:34:43.061Z"
+              "WhenOpened": "2024-08-12T13:34:43.061Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -86,7 +88,8 @@
               "RelativeToolTip": "Server\\Controllers\\CategoriesController.cs",
               "ViewState": "AQIAABQAAAAAAAAAAAAqwBUAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-12T13:33:12.023Z"
+              "WhenOpened": "2024-08-12T13:33:12.023Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -98,7 +101,8 @@
               "RelativeToolTip": "Server\\Controllers\\UsersController.cs",
               "ViewState": "AQIAADQAAAAAAAAAAAAMwEEAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-12T13:21:15.034Z"
+              "WhenOpened": "2024-08-12T13:21:15.034Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -110,7 +114,8 @@
               "RelativeToolTip": "Server\\BL\\User.cs",
               "ViewState": "AQIAAD0AAAAAAAAAAAAwwE4AAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-12T13:11:25.034Z"
+              "WhenOpened": "2024-08-12T13:11:25.034Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -122,7 +127,8 @@
               "RelativeToolTip": "Server\\Controllers\\AuthorsController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-12T09:24:50.264Z"
+              "WhenOpened": "2024-08-12T09:24:50.264Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -134,7 +140,8 @@
               "RelativeToolTip": "Server\\BL\\Author.cs",
               "ViewState": "AQIAAA8AAAAAAAAAAAAIwB8AAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-12T09:23:22.348Z"
+              "WhenOpened": "2024-08-12T09:23:22.348Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -146,7 +153,8 @@
               "RelativeToolTip": "Server\\BL\\Book.cs",
               "ViewState": "AQIAAHsAAAAAAAAAAAAcwI0AAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-11T10:23:53.169Z"
+              "WhenOpened": "2024-08-11T10:23:53.169Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -158,7 +166,8 @@
               "RelativeToolTip": "Server\\Controllers\\BooksController.cs",
               "ViewState": "AQIAABkAAAAAAAAAAAAcwCsAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-11T15:20:36.212Z"
+              "WhenOpened": "2024-08-11T15:20:36.212Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -168,7 +177,7 @@
               "RelativeDocumentMoniker": "Server\\DAL\\DBservices.cs",
               "ToolTip": "C:\\Users\\97250\\Desktop\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\\u05E6\u05D3 \u05E9\u05E8\u05EA\\\u05DE\u05D8\u05DC\u05D4 \u05DE\u05E1\u05DB\u05DE\u05EA\\Server\\Server\\DAL\\DBservices.cs",
               "RelativeToolTip": "Server\\DAL\\DBservices.cs",
-              "ViewState": "AgIAALgBAAAAAAAAAAAYwMEBAAAgAAAAAAAAAA==",
+              "ViewState": "AQIAALcBAAAAAAAAAAA3wMEBAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-11T07:59:21.717Z",
               "EditorCaption": ""
