@@ -1,7 +1,8 @@
-//var apiGlobal = "https://proj.ruppin.ac.il/cgroup78/test1/FinalProj";
-//var portGlobal = "";
+// var apiGlobal = "https://proj.ruppin.ac.il/cgroup78/test2/tar1";
+// var portGlobal = "";
 var apiGlobal = "https://localhost:";
 var portGlobal = "7011";
+
 let audio;
 let dict = new Object();
 $(document).ready(function () {
@@ -134,7 +135,7 @@ function displayBooks(authors) {
         });
         $('#info' + authors[i]["id"]).click(function (event) {
         document.getElementById('readMoreModalLabel').innerText = authors[i]["name"];
-        let image = "/assets/img/noAuthor.png";
+        let image = apiGlobal.substring(0, apiGlobal.length - 1) + "6" + "/assets/img/noAuthor.png";
         if(authors[i]["authorImg"] != "Image not available"){
             image = authors[i]["authorImg"];
         }

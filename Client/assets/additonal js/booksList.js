@@ -1,7 +1,8 @@
-//var apiGlobal = "https://proj.ruppin.ac.il/cgroup78/test1/FinalProj";
-//var portGlobal = "";
+// var apiGlobal = "https://proj.ruppin.ac.il/cgroup78/test2/tar1";
+// var portGlobal = "";
 var apiGlobal = "https://localhost:";
 var portGlobal = "7011";
+
 let audio;
 let dict = new Object();
 $(document).ready(function () {
@@ -17,10 +18,7 @@ $(document).ready(function () {
         }
         audio.play();
     }
-    // else if(!sessionStorage.getItem("isMute")){
-    //     var audio = new Audio("assets/music/Books & Reading.mp3");
-    //     audio2.play();
-    // }
+
     switch(sessionStorage.getItem("isMute")){
         case 'true':
     if(getSearchFor()!="no"){
@@ -131,32 +129,25 @@ function displayBooks(books, booksCat) {
             str+= books[i]['coverImgUrl']; //image
             if(books[i]['coverImgUrl'] == "")
                 {
-                    str+= 'assets/img/noCover.png';
+                    str += apiGlobal.substring(0, apiGlobal.length - 1) + "6" +'assets/img/noCover.png';
                 }
             str+= '" alt="img"></div> <div class="shop-list-content" style="padding: 30px 0px 30px 0px;"><h3><a id="title' + i + '">';
             str+= books[i]['title']; //title
             str+= '</a></h3><h5>';
             str+= books[i]['price'] + "$</h5><br></br>"; //price
             str+= '<p id= "author' + books[i]['bookId'] + '"</p>'; //author
-            // str+= '<div class="star">';
-            //str+= '<i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-regular fa-star"></i></div>'; 
             str+= '<p id="desc';
             str+=  books[i]["bookId"]+ '">';
             str+= books[i]['description']; //description 
             str+= '</p> <div class="shop-btn">';
-            //str+= '<a href="shop-details.html" class="theme-btn"><i'; 
-            //str+= 'class="fa-solid fa-basket-shopping"></i> Add To Cart</a>';
             str+= '<ul class="shop-icon d-flex justify-content-center align-items-center">'; 
             str+= '<li onclick="' + 'Read(';
             str+= '&#x0022 ' + books[i]["description"].replace(new RegExp('"', 'g'), '') + '&#x0022';
             str+= ')" id="speak';
             str += books[i]["bookId"];
             str+= '"><i class="fa-solid fa-volume-high"></i></li>';
-            //str+= '<li><a href="shop-cart.html"><i class="far fa-heart"></i></a></li>';
             str+= '<li id="likeBtn'+ count+'"><a class="icon-2"><i id="likeSym'+ count+'" class="far fa-heart"></i></a></li>';
-            //str+= '<li> <a href="shop-cart.html"><img class="icon" src="assets/img/icon/shuffle.svg" alt="svg-icon"> </a> </li>'; 
             str+= '<li id="eyeBtn'+ count+'"> <a class="icon-2"> <i id="eyeSym'+ count+'" class="far fa-eye"></i></a> </li> </ul>';
-            //str+= '<li> <a href="shop-details.html"><i class="far fa-eye"></i></a> </li> </ul>';
             str+= '</div> </div> </div>';
             count++;
         }   
@@ -363,14 +354,6 @@ function colorLikeFuncECB(err) {
 }
 
 
-// function changeColorLikeFunc(count){
-//     let port = portGlobal;
-//     let api = apiGlobal + port;
-//     api+= '/api/Users/changeBookWant/email/' + sessionStorage.getItem("email") + '/bookId/' + getbookId();
-//     let s = sessionStorage.getItem("email");  
-//     ajaxCall("POST", api, "", changeColorLikeFuncSCB, changeColorLikeFuncECB); 
-// }
-
 function changeColorLikeFuncSCB(done) {
     console.log(done)
     window.location.reload();
@@ -380,14 +363,6 @@ function changeColorLikeFuncECB(err) {
     console.log(err);
 }
 
-
-// function changeColorEyeFunc(){
-//     let port = portGlobal;
-//     let api = apiGlobal + port;
-//     api+= '/api/Users/changeBookRead/email/' + sessionStorage.getItem("email") + '/bookId/' + getbookId(); ///////////////
-//     let s = sessionStorage.getItem("email");  
-//     ajaxCall("POST", api, "", changeColorEyeFuncSCB, changeColorEyeFuncECB); 
-// }
 
 function changeColorEyeFuncSCB(done) {
     console.log(done)

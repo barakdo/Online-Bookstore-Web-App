@@ -1,7 +1,8 @@
-//var apiGlobal = "https://proj.ruppin.ac.il/cgroup78/test1/FinalProj";
-//var portGlobal = "";
+// var apiGlobal = "https://proj.ruppin.ac.il/cgroup78/test2/tar1";
+// var portGlobal = "";
 var apiGlobal = "https://localhost:";
 var portGlobal = "7011";
+
 let audio;
 $(document).ready(function () {
     if(sessionStorage.getItem("isMute") == null){

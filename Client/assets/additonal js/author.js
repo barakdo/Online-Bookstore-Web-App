@@ -1,69 +1,15 @@
-//var apiGlobal = "https://proj.ruppin.ac.il/cgroup78/test1/FinalProj";
-//var portGlobal = "";
+// var apiGlobal = "https://proj.ruppin.ac.il/cgroup78/test2/tar1";
+// var portGlobal = "";
 var apiGlobal = "https://localhost:";
 var portGlobal = "7011";
+
 let audio;
 let dict = new Object();
 $(document).ready(function () {
-    // if(sessionStorage.getItem("isMute") == null){
-    //     sessionStorage.setItem("isMute", 'false');
-    // }
-    // let type = getCatId();
-    // let catName = getCatName();
-    // if(sessionStorage.getItem("isMute") == "false"){
-    //     audio = new Audio("assets/music/Books & Reading.mp3");
-    //     if(type != -1){
-    //         audio = new Audio("assets/music/" + catName + ".mp3");
-    //     }
-    //     audio.play();
-    // }
-    // else if(!sessionStorage.getItem("isMute")){
-    //     var audio = new Audio("assets/music/Books & Reading.mp3");
-    //     audio2.play();
-    // }
-    // switch(sessionStorage.getItem("isMute")){
-    //     case 'true':
-    // if(getSearchFor()!="no"){
-    //     document.getElementById("titleHeader1").innerHTML = 'Search For "'+ getSearchStr() + '" In ' + getSearchFor() + ' Search | ' + '<div style="display: inline-block;" class="shop-icon"><ul class="shop-icon d-flex justify-content-center align-items-center"><li><button onclick="muteChange()" id="muteBtn1"><i style=" color: #012E4A" class="fa-solid fa-volume-xmark"></i></button></li></ul>  </div> ';
-    //     document.getElementById("titleHeader2").innerText = 'Search For "'+ getSearchStr() + '" In ' + getSearchFor() + ' Search';
-    // }
-    // else{
-    //     document.getElementById("titleHeader1").innerHTML = catName + " category | " + '<div style="display: inline-block;" class="shop-icon"><ul class="shop-icon d-flex justify-content-center align-items-center"><li><button onclick="muteChange()" id="muteBtn2"><i style=" color: #012E4A" class="fa-solid fa-volume-xmark"></i></button></li></ul>  </div> ';
-    //     document.getElementById("titleHeader2").innerText = catName + " category";
-    // }
-    // break;
-    // case 'false':
-    //     if(getSearchFor()!="no"){
-    //         document.getElementById("titleHeader1").innerHTML = 'Search For "'+ getSearchStr() + '" In ' + getSearchFor() + ' Search | ' + '<div style="display: inline-block;" class="shop-icon"><ul class="shop-icon d-flex justify-content-center align-items-center"><li><button onclick="muteChange()" id="unmuteBtn1"><i style=" color: #012E4A" class="fa-solid fa-volume-high"></i></button></li></ul>  </div> ';
-    //         document.getElementById("titleHeader2").innerText = 'Search For "'+ getSearchStr() + '" In ' + getSearchFor() + ' Search';
-    //     }
-    //     else{
-    //         document.getElementById("titleHeader1").innerHTML = catName + " category | " + '<div style="display: inline-block;" class="shop-icon"><ul class="shop-icon d-flex justify-content-center align-items-center"><li><button onclick="muteChange()" id="unmuteBtn2"><i style=" color: #012E4A" class="fa-solid fa-volume-high"></i></button></li></ul>  </div> ';
-    //         document.getElementById("titleHeader2").innerText = catName + " category";
-    //     }
-    // break;
-    // }
+    
     authorData();
     GetBooks();   
 });
-
-// function getBooksCat() {
-//     let port = portGlobal;
-//     let api = apiGlobal + port + "/api/Categories/allBooksAllCategory";
-//     ajaxCall("GET", api, "", getBooksCatSCB, getBooksCatECB);
-// }
-
-// function getBooksCatSCB(booksCat) {
-//     GetBooks(booksCat);
-// }
-
-// function getBooksCatECB(err) {
-//     console.log(err);
-// }
-
-
-
-
 
 
 function muteChange(){
