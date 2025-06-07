@@ -2,6 +2,8 @@
 
 A responsive full-stack web application that allows users to browse books by category, search the catalog, view previews, and read book excerpts. The platform also provides detailed information about authors and includes a text-to-speech feature for book descriptions.
 
+🔗 **Live Demo:** [Click here to view the project](https://proj.ruppin.ac.il/cgroup78/test2/tar6/index.html)
+
 <img src="Client/assets/screenshots/homepage.png" width="800" alt="Homepage view">
 
 ## ✅ Features
